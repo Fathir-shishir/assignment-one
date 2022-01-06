@@ -115,15 +115,9 @@ h1{
 }
 .section-five-flex{
     display: flex;
-    gap: 2%;
-    align-items: center;
+    justify-content: space-around;
     
 }
-
-.section-five-picture{
-width: 25%;
-}
-
 .section-six{
  text-align: center;
  background-color: black;
