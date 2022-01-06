@@ -113,6 +113,21 @@ h1{
 .fourth-section-img img{
     width: 90%;
 }
+.section-five-flex{
+    display: flex;
+    gap: 2%;
+    align-items: center;
+    
+}
 
+.section-five-picture{
+width: 25%;
+}
+
+.section-six{
+ text-align: center;
+ background-color: black;
+ color: white;
+}
 
 
