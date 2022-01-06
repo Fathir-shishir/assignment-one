@@ -1,7 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-left: 10%;
-    margin-right: 10%;
+   
 }
 h1{
     font-size: 30px;
@@ -9,6 +8,8 @@ h1{
 }
 .first-section{
     display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .common-color{
     color: #DE3163;
@@ -71,9 +72,13 @@ h1{
     display: flex;
     /* text-align: center; */
     gap: 2%;
-    
-    
 }
+.second-section{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+    
+
 .second-section-items{
     width: 30%;
     border-radius: 10px;
@@ -96,6 +101,8 @@ h1{
 
 .third-section{
     display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .third-section-img{
     width: 40%;
@@ -115,13 +122,16 @@ h1{
 }
 .section-five-flex{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
     
 }
 .section-six{
  text-align: center;
  background-color: black;
  color: white;
+ font-style: italic;
 }
 
 
